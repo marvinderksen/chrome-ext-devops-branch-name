@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "Azure DevOps — Copy branch name",
+  "description": "Copy branch names easily in Azure DevOps",
+  "version": "1.0",
+  "action": {
+    "default_popup": "about.html",
+    "default_icon": "icon48.png"
+  },
+  "content_scripts": [
+    {
+      "js": ["inject.js"],
+      "matches": ["https://dev.azure.com/*/_git/*/pullrequest/*"]
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["inject.js", "button.js", "page-pr.js"],
+      "matches": ["<all_urls>"]
+    }
+  ]
+}

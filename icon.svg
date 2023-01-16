@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="icon48.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="icon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="14.282155"
+     inkscape:cx="40.960206"
+     inkscape:cy="32.978217"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:#0078d4;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none"
+       id="path2430"
+       cx="24"
+       cy="24"
+       r="24" />
+    <g
+       id="g2648"
+       transform="matrix(0.85767908,0,0,0.85767908,3.0120299,3.6494523)">
+      <path
+         id="rect237-8"
+         style="color:#000000;fill:#ffffff;stroke-linecap:round;stroke-linejoin:bevel"
+         d="m 12.6875,7.6054688 -1.5,1.5 V 31.253906 l 1.5,1.5 h 3.951172 v -3 H 14.1875 V 10.605469 h 13.619141 v 2.576172 h 3 V 9.1054688 l -1.5,-1.5 z" />
+      <rect
+         style="fill:none;stroke:#ffffff;stroke-width:3;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+         id="rect237-8-2"
+         width="16.618874"
+         height="22.147585"
+         x="19.634939"
+         y="16.20187" />
+    </g>
+  </g>
+</svg>
