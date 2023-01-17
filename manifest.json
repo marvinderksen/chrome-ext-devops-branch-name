@@ -7,7 +7,16 @@
   "homepage_url": "https://github.com/marvinderksen/chrome-ext-devops-branch-name",
   "action": {
     "default_popup": "about.html",
-    "default_icon": "icon48.png"
+    "default_icon": {
+      "16": "icon16.png",
+      "48": "icon48.png",
+      "128": "icon128.png"
+    }
+  },
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
   },
   "content_scripts": [
     {
