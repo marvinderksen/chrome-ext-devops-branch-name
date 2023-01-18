@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Azure DevOps — Copy branch name",
   "description": "Copy branch names easily in Azure DevOps",
-  "version": "3.1",
+  "version": "3.2",
   "author": "marvinderksen",
   "homepage_url": "https://github.com/marvinderksen/chrome-ext-devops-branch-name",
   "action": {

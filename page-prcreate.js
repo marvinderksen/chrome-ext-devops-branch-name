@@ -18,6 +18,7 @@ function tryAddButtons() {
 
     for (let i = 0; i < dropdowns.length; i++) {
       const branchButtons = dropdowns[i].getElementsByTagName('button');
+
       if (
         dropdowns[i].getElementsByClassName(buttonClassName).length === 0 &&
         branchButtons.length === 1
@@ -25,7 +26,7 @@ function tryAddButtons() {
         const label = branchButtons[0].getAttribute('aria-label');
         const match = label.match(labelPattern);
 
-        if (match.length === 2) {
+        if (match.length === 2 && match[1].trim().length > 0) {
           const branchName = match[1];
           const copyButton = createButton(branchName);
           branchButtons[0].insertAdjacentElement('afterend', copyButton);
